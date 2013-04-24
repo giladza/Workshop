@@ -1,0 +1,6 @@
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\ClassLibrary1\bin\Release\Common.dll.config
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\ClassLibrary1\bin\Release\Common.dll
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\ClassLibrary1\bin\Release\Common.pdb
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\ClassLibrary1\obj\Release\Common.dll
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\ClassLibrary1\obj\Release\Common.pdb

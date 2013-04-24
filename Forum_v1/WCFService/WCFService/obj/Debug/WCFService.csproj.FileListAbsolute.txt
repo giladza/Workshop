@@ -1,0 +1,16 @@
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\WCFService\bin\Debug\WCFService.exe.config
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\WCFService\bin\Debug\WCFService.exe
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\WCFService\bin\Debug\WCFService.pdb
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\WCFService\bin\Debug\Common.dll
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\WCFService\bin\Debug\Common.pdb
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\WCFService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\WCFService\obj\Debug\WCFService.exe
+C:\Users\G\Documents\Project_Forum\WCF_Server_Client\WCFService\WCFService\WCFService\obj\Debug\WCFService.pdb
+C:\Users\G\Dropbox\university\Semester_H\Workshop\v1\WCFService\WCFService\WCFService\bin\Debug\WCFService.exe.config
+C:\Users\G\Dropbox\university\Semester_H\Workshop\v1\WCFService\WCFService\WCFService\bin\Debug\WCFService.exe
+C:\Users\G\Dropbox\university\Semester_H\Workshop\v1\WCFService\WCFService\WCFService\bin\Debug\WCFService.pdb
+C:\Users\G\Dropbox\university\Semester_H\Workshop\v1\WCFService\WCFService\WCFService\bin\Debug\Common.dll
+C:\Users\G\Dropbox\university\Semester_H\Workshop\v1\WCFService\WCFService\WCFService\bin\Debug\Common.pdb
+C:\Users\G\Dropbox\university\Semester_H\Workshop\v1\WCFService\WCFService\WCFService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\G\Dropbox\university\Semester_H\Workshop\v1\WCFService\WCFService\WCFService\obj\Debug\WCFService.exe
+C:\Users\G\Dropbox\university\Semester_H\Workshop\v1\WCFService\WCFService\WCFService\obj\Debug\WCFService.pdb
